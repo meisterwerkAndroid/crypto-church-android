@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5e6678</color>
+    <color name="colorPrimaryDark">#5e6678</color>
+    <color name="colorAccent">#5e6678</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="background_elements_color">#2A3243</color>
+    <color name="tab_unselected_text_color">#2A3243</color>
+</resources>
